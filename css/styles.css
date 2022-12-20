@@ -1,0 +1,54 @@
+/*************GENERAL SELECTORS*************/
+div
+{
+    background-color: #E4F9F5;
+}
+body
+{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1
+{
+    margin-block-start: 0px;
+    margin-top: 0px;
+    font-family: 'Sacramento', cursive;
+}
+h2
+{
+    font-family: 'Montserrat', sans-serif;
+}
+h3
+{
+    font-family: 'Montserrat', sans-serif;
+}
+/*************CLASS SELECTORS*************/
+.top-container
+{
+    padding: 20px;
+}
+.middle-container
+{}
+
+.bottom-container
+{}
+
+.pro
+{
+    text-decoration: underline;
+}
+.bottom-cloud
+{
+    position: absolute;
+}
+.top-cloud
+{
+    position: absolute;
+    right: 500px;
+    margin: 10px 0px 0px;
+}
+.coding-img
+{
+    width: 300px;
+}
