@@ -1,7 +1,7 @@
 /*************GENERAL SELECTORS*************/
 div
 {
-    background-color: #E4F9F5;
+    
 }
 body
 {
@@ -15,20 +15,29 @@ h1
     margin-block-start: 0px;
     margin: 50px auto 0;
     font-family: 'Sacramento', cursive;
+    color: #66BFBF;
 }
 h2
 {
     font-size: 2.5rem;
     font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    font-weight: normal;
 }
 h3
 {
     font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+a
+{
+    color: #11999E;
 }
 /*************CLASS SELECTORS*************/
 .top-container
 {
     padding: 20px;
+    background-color: #E4F9F5;
 }
 .middle-container
 {}
@@ -43,22 +52,38 @@ h3
 .bottom-cloud
 {
     position: absolute;
+    left: 200px;
 }
 .top-cloud
 {
     position: absolute;
-    right: 500px;
+    right: 400px;
     margin: 10px 0px 0px;
 }
 .coding-img
 {
-    width: 300px;
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.physicist-img
+{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
 }
 .profile-pic
 {
     margin-top: 5px;
 }
-/*************ID SELECTORS*************/
+.skill-row
+{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+/*************CLASS SELECTORS*************/
 #skill-hr
 {
     border-top: 2px dashed black;
