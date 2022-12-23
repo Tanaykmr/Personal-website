@@ -25,6 +25,10 @@ h3
 {
     font-family: 'Montserrat', sans-serif;
 }
+.profile-pic
+{
+    margin-top: 5px;
+}
 /*************CLASS SELECTORS*************/
 .top-container
 {
