@@ -25,10 +25,6 @@ h3
 {
     font-family: 'Montserrat', sans-serif;
 }
-.profile-pic
-{
-    margin-top: 5px;
-}
 /*************CLASS SELECTORS*************/
 .top-container
 {
@@ -57,6 +53,10 @@ h3
 .coding-img
 {
     width: 300px;
+}
+.profile-pic
+{
+    margin-top: 5px;
 }
 /*************CLASS SELECTORS*************/
 #skill-hr
